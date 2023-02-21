@@ -8,6 +8,8 @@ int main(){
     {
         cout<<"i";
         cout<<"hellow"<<endl;
+        cout<<"hellow"<<endl;
+
     }
     
     return 0;
